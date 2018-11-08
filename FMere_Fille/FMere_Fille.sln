@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Fenetre Mere_Fille", "Fenetre Mere_Fille\Fenetre Mere_Fille.csproj", "{81C6FB8E-3233-4DCF-96FF-92C5F21FC762}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{81C6FB8E-3233-4DCF-96FF-92C5F21FC762}.Debug|x86.ActiveCfg = Debug|x86
+		{81C6FB8E-3233-4DCF-96FF-92C5F21FC762}.Debug|x86.Build.0 = Debug|x86
+		{81C6FB8E-3233-4DCF-96FF-92C5F21FC762}.Release|x86.ActiveCfg = Release|x86
+		{81C6FB8E-3233-4DCF-96FF-92C5F21FC762}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
