@@ -16,7 +16,7 @@ Nous avons ensuite ajouté différentes fonctionnalités:
 
 1. Le bouton "New" instancie une nouvelle fenêtre et l'ajoute à la ListBox.
 La mère ayant de nombreuses Filles, celles-ci seront stockées dans une ArrayList gérée par la fenêtre mère:
-```cs
+`cs
 public partial class FMere : Form
 {
   List<FFille> lesFilles;
